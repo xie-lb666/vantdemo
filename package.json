@@ -1,0 +1,23 @@
+{
+  "name": "vantdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xie-lb666/vantdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xie-lb666/vantdemo/issues"
+  },
+  "homepage": "https://github.com/xie-lb666/vantdemo#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
